@@ -5,7 +5,7 @@
     color: black;
     font-family: 'Times New Roman', Times, serif;
     font-size: 100px;
-
+    text-align: center;
 }
 
 
@@ -22,16 +22,11 @@
 .Images {
     display: flex;
     justify-content: center;
-
 }
 
 h2 {
     display: flex;
     justify-content: center;
-    color: blue;
-}
-
-h4 {
     color: blue;
 }
 
