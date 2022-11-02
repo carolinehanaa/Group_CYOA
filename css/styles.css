@@ -11,6 +11,11 @@
     align-items: flex-end;
 }
 
+.Title-Image{
+    border-radius: 75px;
+    max-width: 45%;
+}
+
 h2 {
     color: blue;
 }
