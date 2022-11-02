@@ -1,9 +1,9 @@
-.Title{
+.Title {
     display: flex;
     justify-content: center;
     align-items: flex-start;
     color: black;
-    font-family:'Times New Roman', Times, serif;
+    font-family: 'Times New Roman', Times, serif;
     font-size: 100px;
 
 }
@@ -14,14 +14,14 @@
     align-self: flex-end;
 }
 
-.img-1, .img-4 {
+.img-1,
+.img-4 {
     border-radius: 75px;
-
 }
 
-.Title-Image{
-   display: flex;
-   justify-content: center;
+.Title-Image {
+    display: flex;
+    justify-content: center;
 
 }
 
@@ -29,7 +29,7 @@ h2 {
     color: blue;
 }
 
-h4{
+h4 {
     color: blue;
 }
 
@@ -37,4 +37,3 @@ h4{
     display: flex;
     justify-content: center;
 }
-
