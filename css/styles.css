@@ -15,8 +15,7 @@
     align-self: flex-end;
 }
 
-.img-1,
-.img-4 {
+.img {
     border-radius: 75px;
 }
 
@@ -27,6 +26,8 @@
 }
 
 h2 {
+    display: flex;
+    justify-content: center;
     color: blue;
 }
 
