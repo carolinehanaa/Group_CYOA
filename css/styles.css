@@ -2,18 +2,27 @@
     display: flex;
     justify-content: center;
     align-items: flex-start;
-    color: blueviolet;
+    color: black;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 100px;
+
 }
 
 .Flex-Container {
     display: flex;
     justify-content: center;
-    align-items: flex-end;
+    align-self: flex-end;
+}
+
+.img-1 {
+    border-radius: 75px;
+
 }
 
 .Title-Image{
-    border-radius: 75px;
-    max-width: 45%;
+   display: flex;
+   justify-content: center;
+
 }
 
 h2 {
