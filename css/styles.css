@@ -14,8 +14,7 @@
     align-self: flex-end;
 }
 
-.img-1,
-.img-4, .img-5, .img-6 {
+.img {
     border-radius: 75px;
 }
 
