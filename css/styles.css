@@ -34,13 +34,6 @@ h1{
     text-align: center;
 }
 
-h2 {
-    display: flex;
-    justify-content: center;
-    color: darkslategrey;
-    font-family: 'Vollkorn', serif;
-}
-
 .location {
     display: flex;
     justify-content: center;
