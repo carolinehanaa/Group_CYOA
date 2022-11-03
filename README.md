@@ -1,5 +1,4 @@
-Caroline Hana
-Amardeep Mann
-Jasmine Leek
-11-01-2022
-CYOA html - An adventure about a horse!
+Amar Mann, Caroline Hana, Jasmine Leek 
+3 nov 2022
+Group CYOA with Styles
+This is a Choose Your Own Adventure story using HTML/CSS
