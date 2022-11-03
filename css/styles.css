@@ -29,6 +29,8 @@ h1{
     justify-content: center;
     color: white;
     font-family: 'Vollkorn', serif;
+    padding-left: 4rem;
+    padding-right: 4rem;
 }
 
 h2 {
