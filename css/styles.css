@@ -3,8 +3,8 @@
     justify-content: center;
     align-items: flex-start;
     color: black;
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 100px;
+    font-family: 'Ultra', serif;
+    font-size: 72px;
     text-align: center;
 }
 
@@ -28,13 +28,14 @@ h1{
     display:flex;
     justify-content: center;
     color: white;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Vollkorn', serif;
 }
 
 h2 {
     display: flex;
     justify-content: center;
     color: darkslategrey;
+    font-family: 'Vollkorn', serif;
 }
 
 .location {
